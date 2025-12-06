@@ -1,0 +1,10 @@
+.auth {
+    width: 35%;
+    text-align: center;
+    margin:100px auto;
+    &_title {
+        margin-bottom: 50px;
+        font-size: 24px;
+        text-transform: uppercase;
+    }
+}

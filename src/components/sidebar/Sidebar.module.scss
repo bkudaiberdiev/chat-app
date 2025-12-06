@@ -1,0 +1,17 @@
+.sidebar {
+    width: 20%;
+    padding: 20px;
+    overflow-y: auto;
+    font-family: "Roboto";
+    &_search {
+        height: 35px;
+    }
+
+    ul {
+        li {
+            padding: 10px 0;
+            text-transform: uppercase;
+            border-bottom: 1px solid lightgray;
+        }
+    }
+}
